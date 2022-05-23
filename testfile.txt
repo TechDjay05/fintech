@@ -5,3 +5,4 @@ Check out IU and its variety of degrees in STEM fields like AI, Robotics and Com
 IU degrees equip you with the most-up-to-date industry knowledge, allowing you to graduate with real-world experience
 and choose a career path that better fits your skills and needs. 94% of IU graduates find work within three months of finishing their studies
 Why not give it a try? Apply now to kick-start your journey at IU!
+I am adding a new line to the the file
